@@ -1,0 +1,28 @@
+User swapped 11 USDT to 1247.0700000000002JPY, actuall course is 113.37
+User swapped 11 USDT to 1246.96JPY, actuall course is 113.36
+User swapped 11 USDT to 1246.96JPY, actuall course is 113.36
+User swapped 11 USDT to 1246.96JPY, actuall course is 113.36
+User swapped 11 USDT to 1246.96JPY, actuall course is 113.36
+User swapped 1 USDT to 113.36JPY, actuall course is 113.36
+User swapped 113.36 USDT to 113.36JPY, actuall course is 113.36
+User swapped 1.0 USDT to 113.36JPY, actuall course is 113.36
+User swapped 113.36 USDT to 113.36JPY, actuall course is 113.36
+User swapped 111 USDT to 12582.96JPY, actuall course is 113.36
+User swapped 12582.96 USDT to 12582.96JPY, actuall course is 113.36
+User swapped 1111 USDT to 1111.0JPY, actuall course is 113.33
+User swapped 111132 USDT to 111132.0JPY, actuall course is 113.33
+User swapped 321312312 JPY to 25017.136003660133USDT, actuall course is 113.33
+User swapped 113 JPY to 0.008798095382082946USDT, actuall course is 113.33
+User swapped 1132 JPY to 0.08813667232316721USDT, actuall course is 113.33
+User swapped 113233 JPY to 8.816236587605296USDT, actuall course is 113.33
+User swapped 32 JPY to 0.0024901774948714794USDT, actuall course is 113.36
+User swapped 1 USDT to 113.33JPY, actuall course is 113.33
+User swapped 3232 JPY to 0.251641099777806USDT, actuall course is 113.33
+User swapped 11 USDT to 1246.52 JPY, actuall course is 113.32
+User swapped 1500 JPY to 0.11680948988953126 USDT, actuall course is 113.32
+User swapped 1 JPY to 7.806576516112881e-05 USDT, actuall course is 113.18
+User swapped 1000 JPY to 0.07806576516112883 USDT, actuall course is 113.18
+User swapped 1 JPY to 7.805197201390346e-05 USDT, actuall course is 113.19
+User swapped 1 USDT to 113.19 JPY, actuall course is 113.19
+User swapped 11 USDT to 1243.77 JPY, actuall course is 113.07
+User swapped 1 USDT to 112.82 JPY, actuall course is 112.82
